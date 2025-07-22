@@ -16,7 +16,7 @@ A Fabric mod that restores the classic **F3+F** render distance controls removed
 - **LuckPerms** (Optional): For permission management
 
 ### Client & Server Installation
-1. Download the latest release from [Releases](https://github.com/yourusername/f3f/releases)
+1. Download the latest release from [Releases](https://github.com/RealKomander/f3f/releases)
 2. Place `f3f-VERSION.jar` in your `mods/` folder **on both client an server**
 3. Install [Fabric API](https://modrinth.com/mod/fabric-api) if not already installed
 4. (Optional) Install [LuckPerms](https://luckperms.net/) for permission management
